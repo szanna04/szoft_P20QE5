@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szorzotabla", "dzorzotabla\szorzotabla.csproj", "{BCE2D52D-83DA-43D6-953B-E341DB669882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{95717B98-6884-4975-A599-983C6CA40B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE2D52D-83DA-43D6-953B-E341DB669882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE2D52D-83DA-43D6-953B-E341DB669882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE2D52D-83DA-43D6-953B-E341DB669882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE2D52D-83DA-43D6-953B-E341DB669882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95717B98-6884-4975-A599-983C6CA40B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95717B98-6884-4975-A599-983C6CA40B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95717B98-6884-4975-A599-983C6CA40B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95717B98-6884-4975-A599-983C6CA40B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9ACA6E-E90F-4F88-96F8-5E965E5C2A7B}
+	EndGlobalSection
+EndGlobal
