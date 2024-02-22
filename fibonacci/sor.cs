@@ -10,6 +10,7 @@ namespace fibonacci
     {
 
         //
+        //
 
         public int Sorszam { get; set; }
         public int Ertek { get; set; }
