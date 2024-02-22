@@ -9,6 +9,8 @@ namespace fibonacci
     internal class sor
     {
 
+        //
+
         public int Sorszam { get; set; }
         public int Ertek { get; set; }
     }
