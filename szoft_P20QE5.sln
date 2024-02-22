@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szorzotabla", "dzorzotabla\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{95717B98-6884-4975-A599-983C6CA40B01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pascal", "pascal\pascal.csproj", "{36174378-0E0D-4A6A-9E9C-9401BD49BE09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{95717B98-6884-4975-A599-983C6CA40B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95717B98-6884-4975-A599-983C6CA40B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95717B98-6884-4975-A599-983C6CA40B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36174378-0E0D-4A6A-9E9C-9401BD49BE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36174378-0E0D-4A6A-9E9C-9401BD49BE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36174378-0E0D-4A6A-9E9C-9401BD49BE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36174378-0E0D-4A6A-9E9C-9401BD49BE09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
