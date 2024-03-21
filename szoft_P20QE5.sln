@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pascal", "pascal\pascal.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_het", "WinFormsApp1\3_het.csproj", "{81674B82-FCFA-4E18-90AA-F69F92463F9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hajozas", "hajozas\hajozas.csproj", "{8B7D427D-9E37-4E5A-A067-33BF670B2E69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hajozas", "hajozas\hajozas.csproj", "{8B7D427D-9E37-4E5A-A067-33BF670B2E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kigyos", "kigyos\kigyos.csproj", "{858A9BDD-90D8-4FAA-96B1-33A17E3F4D75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8B7D427D-9E37-4E5A-A067-33BF670B2E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B7D427D-9E37-4E5A-A067-33BF670B2E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B7D427D-9E37-4E5A-A067-33BF670B2E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858A9BDD-90D8-4FAA-96B1-33A17E3F4D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858A9BDD-90D8-4FAA-96B1-33A17E3F4D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858A9BDD-90D8-4FAA-96B1-33A17E3F4D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858A9BDD-90D8-4FAA-96B1-33A17E3F4D75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
