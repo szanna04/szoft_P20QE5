@@ -82,7 +82,6 @@
             textBox3.ReadOnly = true;
             textBox3.Size = new Size(263, 65);
             textBox3.TabIndex = 4;
-            textBox3.TextChanged += textBox3_TextChanged;
             // 
             // pictureBox1
             // 
